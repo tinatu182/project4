@@ -272,6 +272,13 @@ a:hover {
     margin-top: 80px;
 }
 
+strong{
+    font-style: italic;
+}
+.voffset h3{
+    color: #333333 !important;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -438,6 +445,9 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
 }
 
 .mg-lg {
@@ -710,10 +720,8 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #333333!important;
+    font-size: 22px;
+    line-height: 1.4em;
 }
 
 .med-width-whitespace {
@@ -781,7 +789,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
