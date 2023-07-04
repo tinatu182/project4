@@ -1,9 +1,11 @@
 # project4
+
 Before Fix
 <img alt="mobilecontactpage" src="img/mobileindexpage.png">
 <img alt="desktopindexpage" src="img/desktopindexpage.png">
 <img alt="mobilecontactpage" src="img/mobilecontactpage.png">
 <img alt="desktopcontactpage" src="img/desktopcontactpage.png">
+
 After Fix
 <img alt="mobilecontactpagefixed" src="img/mobileindexpagefixed.png">
 <img alt="desktopindexpagefixed" src="img/desktopindexpagefixed.png">
